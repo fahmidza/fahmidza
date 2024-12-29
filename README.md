@@ -25,6 +25,10 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 
 ---
 
+## 👀 Visitor Count  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=fahmidza.fahmidza)
+
+---
 
 ## 📊 My GitHub Stats  
 ![Fahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahmidza&show_icons=true&theme=radical)  
