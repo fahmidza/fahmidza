@@ -26,7 +26,7 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 ---
 
 ## 👀 Visitor Count  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=fahmidza)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/fahmidza&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 ---
 
