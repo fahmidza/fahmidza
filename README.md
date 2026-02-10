@@ -5,7 +5,7 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 ---
 
 ## ✨ About Me  
-- 🎓 **Education**: Third-year student majoring in **Statistics** at Universitas Gadjah Mada.  
+- 🎓 **Education**: Final year student majoring in **Statistics** at Universitas Gadjah Mada.  
 - 🔭 **Interests**:  
   - 🚀 Data Science  
   - 📊 Statistical Modeling  
