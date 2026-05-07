@@ -25,14 +25,25 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 
 ---
 
+
+
 ## 👀 Visitor Count  
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/fahmidza&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+
 
 ---
 
+
+
 ## 📊 My GitHub Stats  
+
 ![Fahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahmidza&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidza&layout=compact&theme=radical)
+
+
 
 ---
 
