@@ -5,15 +5,15 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 ---
 
 ## ✨ About Me  
-- 🎓 **Education**: Final year student majoring in **Statistics** at Universitas Gadjah Mada.  
+- 🎓 **Education**: Fresh Graduate in **Statistics** at Universitas Gadjah Mada.  
 - 🔭 **Interests**:  
   - 🚀 Data Science  
   - 📊 Statistical Modeling  
   - 🤖 Machine Learning  
-  - 🌐 Open Source Projects  
-- 📚 **Skills**:  
-  - Programming: ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-  - Visualization: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?logo=r&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white)  
+- 📚 **Tech Stack & Tools**:  
+  - **Programming & Database**: ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+  - **Statistical Software**: SPSS, Minitab, EViews
+  - **Visualization**: ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?logo=r&logoColor=white)
 
 ---
 
@@ -39,6 +39,7 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 ## 📫 How to Reach Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzulfahmidzakiaahmad@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzulfahmidzakiaahmad)  
+[![Location](https://img.shields.io/badge/Location-Jakarta-000000?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 ---
 
