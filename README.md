@@ -4,6 +4,12 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 
 ---
 
+## 📂 Quick Links
+[![Data Portfolio](https://img.shields.io/badge/My_Data_Portfolio-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1D-fA2L609p9u2YQoxl34fZbkPD0nMGad?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzulfahmidzakiaahmad)  
+
+---
+
 ## ✨ About Me  
 - 🎓 **Education**: Fresh Graduate in **Statistics** at Universitas Gadjah Mada.  
 - 🔭 **Interests**:  
@@ -31,4 +37,4 @@ I’m **Fahmi**, a statistics student at Universitas Gadjah Mada, currently expl
 
 ---
 
-Thank you for visiting my profile! 🚀 Feel free to explore my repositories and connect with me to collaborate on exciting projects. 😊  
+Thank you for visiting my profile! 🚀 Feel free to explore my repositories and connect with me to collaborate on exciting projects. 😊
