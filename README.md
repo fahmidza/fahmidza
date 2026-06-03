@@ -39,13 +39,3 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 
 Thank you for visiting my profile! 🚀 Feel free to explore my repositories and connect with me to collaborate on exciting projects. 😊
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahmidza&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidza&layout=compact&theme=dracula&hide_border=true&langs_count=5" />
-</div>
-
----
