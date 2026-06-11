@@ -2,6 +2,9 @@
 
 I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently exploring the exciting world of **data analysis**, **statistical modeling**, and **data visualization**. 📊  
 
+### 🌟 [**Explore My Interactive Data Science Portfolio!**](https://fahmidza.github.io/portfolio/) 🌟  
+[![Portfolio](https://img.shields.io/badge/Website-fahmidza.github.io%2Fportfolio-blue?style=for-the-badge&logo=docusaurus&logoColor=white)](https://fahmidza.github.io/portfolio/)
+
 ---
 
 ## 📂 Quick Links
