@@ -6,9 +6,9 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 
 <p align="center">
   <a href="https://fahmidza.github.io/portfolio/">
-    <img src="https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u"
+    <img src="https://media.giphy.com/media/l1Oe5bzMJi5LVcbP0/giphy.gif"
          width="700"
-         alt="Data Science Animation">
+         alt="Portfolio Animation">
   </a>
 </p>
 
@@ -17,7 +17,6 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
-
 ---
 
 ## 📂 Quick Links
