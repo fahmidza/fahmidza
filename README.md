@@ -7,7 +7,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 <p align="center">
   <a href="https://fahmidza.github.io/portfolio/">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0eW9qYmp6MW90aGZybm9ya2VuNm1qeWVua2F6Njd2OW9sdjhscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif"
-         width="350"
+         width="200"
          alt="Portfolio Website">
   </a>
 </p>
