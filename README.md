@@ -13,7 +13,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 </p>
 
 <p align="center">
-  <strong>👆 Click the animation above to visit my portfolio website</strong>
+  <strong>Explore my web-base portfolio below⬇️</strong>
 </p>
 
 <p align="center">
