@@ -6,10 +6,14 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 
 <p align="center">
   <a href="https://fahmidza.github.io/portfolio/">
-    <img src="https://media.giphy.com/media/l1Oe5bzMJi5LVcbP0/giphy.gif"
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0eW9qYmp6MW90aGZybm9ya2VuNm1qeWVua2F6Njd2OW9sdjhscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif"
          width="700"
-         alt="Portfolio Animation">
+         alt="Portfolio Website">
   </a>
+</p>
+
+<p align="center">
+  <strong>👆 Click the animation above to visit my portfolio website</strong>
 </p>
 
 <p align="center">
@@ -17,7 +21,6 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
----
 
 ## 📂 Quick Links
 [![GDRIVE Portfolio](https://img.shields.io/badge/My_Data_Portfolio-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1D-fA2L609p9u2YQoxl34fZbkPD0nMGad?usp=drive_link)
