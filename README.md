@@ -6,7 +6,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 
 <p align="center">
   <a href="https://fahmidza.github.io/portfolio/">
-    <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-4f5a-4f62-8b9f-cf8b4d4c0f6d.gif"
+    <img src="https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u"
          width="700"
          alt="Data Science Animation">
   </a>
@@ -21,7 +21,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 ---
 
 ## 📂 Quick Links
-[![Data Portfolio](https://img.shields.io/badge/My_Data_Portfolio-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1D-fA2L609p9u2YQoxl34fZbkPD0nMGad?usp=drive_link)
+[![GDRIVE Portfolio](https://img.shields.io/badge/My_Data_Portfolio-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1D-fA2L609p9u2YQoxl34fZbkPD0nMGad?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzulfahmidzakiaahmad)  
 
 ---
