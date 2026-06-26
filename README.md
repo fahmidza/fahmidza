@@ -5,7 +5,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 ## 🌟 Explore My Interactive Website Portfolio! 🌟
 
 <p align="center">
-  <a href="https://fahmidza.github.io/myportfolio/"
+  <a href="https://fahmidza.github.io/portfolio/"
      target="_blank"
      rel="noopener noreferrer external">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0eW9qYmp6MW90aGZybm9ya2VuNm1qeWVua2F6Njd2OW9sdjhscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif"
@@ -19,7 +19,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 </p>
 
 <p align="center">
-  <a href="https://fahmidza.github.io/myportfolio/"
+  <a href="https://fahmidza.github.io/portfolio/"
      target="_blank"
      rel="noopener noreferrer external">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
