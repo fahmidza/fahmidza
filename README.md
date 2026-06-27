@@ -6,7 +6,7 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 
 <p align="center">
   <a href="https://fahmidza.github.io/portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/fahmidza/portfolio/main/static/img/website-preview.png" width="800" alt="Dzulfahmi Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/fahmidza/fahmidza/refs/heads/main/Portfolio%20Website.png" width="800" alt="Dzulfahmi Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 </p>
 <p align="center">
