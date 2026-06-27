@@ -5,25 +5,13 @@ I’m **Fahmi**, a Statistics graduate from Universitas Gadjah Mada, currently e
 ## 🌟 Explore My Interactive Website Portfolio! 🌟
 
 <p align="center">
-  <a href="https://fahmidza.github.io/portfolio/"
-     target="_blank"
-     rel="noopener noreferrer external">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0eW9qYmp6MW90aGZybm9ya2VuNm1qeWVua2F6Njd2OW9sdjhscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif"
-         width="200"
-         alt="Portfolio Website">
+  <a href="https://fahmidza.github.io/portfolio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/fahmidza/portfolio/main/static/img/website-preview.png" width="800" alt="Dzulfahmi Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 </p>
-
 <p align="center">
-  <strong>Explore my web-based portfolio below ⬇️</strong>
-</p>
-
-<p align="center">
-  <a href="https://fahmidza.github.io/portfolio/"
-     target="_blank"
-     rel="noopener noreferrer external">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
-         alt="Visit My Portfolio">
+  <a href="https://fahmidza.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Interactive_Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio">
   </a>
 </p>
 
